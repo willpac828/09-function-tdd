@@ -1,4 +1,4 @@
-export default function (cardValue, card1, card2) {
+export default function (cardValue) {
   // for (i = 2; i < 11; i += 1) {
   //   if
   // }
